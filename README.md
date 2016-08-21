@@ -1,2 +1,0 @@
-# BloodBankManagement
-The Blood Bank Management System is application having the interface of donor, receiver and the admin. Through this application any person who is interested in donating the blood can register himself. The receiver can receive the blood by donating any equal quantity of blood in the bank. The blood would always be served that has not been expired. Expired blood would automatically be deleted from database. Admin is the main authority who can do addition, deletion, and modification if required.

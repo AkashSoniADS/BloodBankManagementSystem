@@ -1,0 +1,8 @@
+		Blood Receiver Receipt
+
+Quantity of Blood bottles taken by Receiver            : 1
+Receiver INFO :-
+Patient Name            : Parth Shah
+BirthDate            : 12/12/1992
+Blood-Group of Patient     : A+
+Blood received date  : Wed Nov 04 19:50:34 IST 2015
